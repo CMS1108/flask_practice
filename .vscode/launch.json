@@ -10,7 +10,7 @@
             "request": "launch",
             "module": "flask",
             "env": {
-                "FLASK_APP": "asdf.py",
+                "FLASK_APP": "main",
                 "FLASK_ENV": "development"
             },
             "args": [
